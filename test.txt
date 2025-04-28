@@ -1,1 +1,2 @@
 Iniciando o repositorio git.
+E tambem outros arquivos que sao usados no Front-End.
